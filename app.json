@@ -1,7 +1,7 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "logo": "https://telegra.ph/file/30c51cacf579691603f4e.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "",
       "required": false
     },
     "BOY_OR_GIRL": {
